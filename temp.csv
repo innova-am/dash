@@ -1,0 +1,82 @@
+bbg_code,name,class
+AS51 INDEX,S&P/ASX 200,Equity Index
+spx index,S&P 500 INDEX,Equity Index
+nky index,Nikkei 225,Equity Index
+mxeu index,MSCI Europe Index,Equity Index
+mxwd index,MSCI ACWI Index,Equity Index
+mxef index,MSCI Emerging Markets Index,Equity Index
+m1woqu index,MSCI World Quality Net Total Return USD Index,Equity Index
+asa31 index,Australian Stock Exchange Accumulation 50 Leaders Index,Equity Index
+asa34 index,Australian Stock Exchange Accumulation Midcap 50 Index,Equity Index
+asa38 index,Australian Stock Exchange Accumulation Small Cap Ordinaries Index,Equity Index
+riy index,Russell 1000 Index,Equity Index
+mid index,S&P Midcap 400 Index,Equity Index
+rty index,Russell 2000 Index,Equity Index
+mxjplc index,MSCI JAPAN LARGE CAP INDEX,Equity Index
+mxjpmc index,MSCI Japan Mid Cap Index,Equity Index
+mxjpsc index,MSCI Japan Small Cap Index,Equity Index
+mxwolc index,MSCI World Large Cap Index,Equity Index
+mxwomc index,MSCI World Index Mid Cap Index,Equity Index
+mxwosc  index,MSCI World Small Cap Index,Equity Index
+mxeulc index,MSCI Europe Large Cap Index,Equity Index
+mxeumc index,MSCI Europe Mid Cap Index,Equity Index
+mxeusc index,MSCI Europe Small Cap Index in USD,Equity Index
+as51prop index,S&P/ASX 200 A-REIT Index,Equity Index
+jpeihaud index,J.P. Morgan EMBI Global Core Hedged Index Level AUD,Index
+xau curncy,XAUUSD Spot Exchange Rate - Price of 1 XAU in USD,SPOT
+XAUAUD Curncy,XAUAUD Spot Exchange Rate - Price of 1 XAU in AUD,CROSS
+co1 comdty,#N/A Field Not Applicable,Financial commodity generic.
+cry index,FTSE/CoreCommodity CRB Excess Return Index,Commodity Index
+cry index,FTSE/CoreCommodity CRB Excess Return Index,Commodity Index
+lmex index,London Metal Exchange LMEX Metals Index,Equity Index
+lmex index,London Metal Exchange LMEX Metals Index,Equity Index
+isix62iu index,Iron Ore Spot Price Index 62% Import Fine Ore CFR Qingdao USD,Index
+isix62iu index,Iron Ore Spot Price Index 62% Import Fine Ore CFR Qingdao USD,Index
+bacm0 index,Bloomberg AusBond Composite 0+ Yr Index,Fixed Income Index
+bacr0 index,Bloomberg AusBond Credit 0+ Yr Index,Fixed Income Index
+baig0 index,Bloomberg AusBond Infl Govt 0+ Yr Index,Fixed Income Index
+LUACTRUU Index,Bloomberg US Corporate Total Return Value Unhedged USD,Fixed Income Index
+lgcptruu index,Bloomberg Global Agg Corporate Total Return Index Value Unhedged USD,Fixed Income Index
+lf98trah index,Bloomberg US Corporate High Yield Total Return Index Value Hedged AUD,Fixed Income Index
+lp02treu index,Bloomberg Pan-European High Yield (Euro) TR Index Value Unhedged EUR,Fixed Income Index
+legatrah index,Bloomberg Global-Aggregate Total Return Index Value Hedged AUD,Fixed Income Index
+MXAPJ Index,MSCI AC Asia Pacific Excluding Japan Index,Equity Index
+ENGL Index,FTSE EPRA Nareit Developed Index,Equity Index
+FTAW02 Index,FTSE All World Excluding United States Index,Equity Index
+M5AUVOA Index,MSCI Australia Minimum Volatility Optimized In AUD Gross TR Local Index,Equity Index
+MXAU000V Index,MSCI Australia Value Index,Equity Index
+m1auqu Index,MSCI AUSTRALIA Quality Net Total Return Index,Equity Index
+MXAUSC Index,MSCI Australia Small Cap Index,Equity Index
+SPGTIND Index,S&P Global Infrastructure Index,Equity Index
+mxwo000v Index,MSCI World Value Index,Equity Index
+M1WOMVOL INDEX,MSCI World Minimum Volatility Net Total Return USD Index,Equity Index
+M1WOMOM Index,MSCI World Momentum Net Total Return USD Index,Equity Index
+luattruu Index,Bloomberg US Treasury Total Return Unhedged USD,Fixed Income Index
+BCEK1T Index,Bloomberg UK Govt All Bonds Total Return,Fixed Income Index
+bceg1t index,Bloomberg Germany Govt All Bonds Total Return,Fixed Income Index
+JEMDX INDEX,JPMorgan Emerging Markets Debt Fund,Open-End Fund
+DXY Curncy,#N/A Field Not Applicable,Currency spot.
+AUDUSD BGNT Curncy,AUDUSD Spot Exchange Rate - Price of 1 AUD in USD,CROSS
+eurusd bgnt curncy,EURUSD Spot Exchange Rate - Price of 1 EUR in USD,CROSS
+GBPUSD bgnt curncy,GBPUSD Spot Exchange Rate - Price of 1 GBP in USD,CROSS
+jpyusd curncy,JPYUSD Spot Exchange Rate - Price of 1 JPY in USD,CROSS
+cnyusd curncy,CNYUSD Spot Exchange Rate - Price of 1 CNY in USD,CROSS
+audjpy curncy,AUDJPY Spot Exchange Rate - Price of 1 AUD in JPY,CROSS
+audeur curncy,AUDEUR Spot Exchange Rate - Price of 1 AUD in EUR,CROSS
+audgbp curncy,AUDGBP Spot Exchange Rate - Price of 1 AUD in GBP,CROSS
+BITCOIN Index,Bloomberg Bitcoin Index,Commodity Index
+SGIXTFXA Index,SGI Cross Asset Trend Following Index,Equity Index
+Baty0 Index,Bloomberg AusBond Treasury 0+ Yr Index,Fixed Income Index
+BAFRN0 Index,Bloomberg AusBond Credit FRN 0+ Yr Index,Fixed Income Index
+MXAU000G Index,MSCI Australia Growth Index,Equity Index
+MXWo000G Index,MSCI World Growth Index,Equity Index
+MXEA Index,MSCI EAFE Index,Equity Index
+shcomp index,Shanghai Stock Exchange Composite Index,Equity Index
+UKX index,FTSE 100 Index,Equity Index
+NQXAUHAN Index,Nasdaq Global Agriculture Companies NTR Hedged AUD,Equity Index
+KOSPI Index,Korea Stock Exchange KOSPI Index,Equity Index
+NA735934 Index,MSCI World ex Australia Small Cap Quality 150 Index,Equity Index
+NDX Index,Nasdaq-100 Index,Equity Index
+M4AUMT Index,MSCI Australia Momentum Local Net Total Return Index,Equity Index
+NA736924 Index,MSCI World ex Australia Enhanced Value Top 250 Select Index,Equity Index
+spw index,S&P 500 Equal Weighted Index,Equity Index

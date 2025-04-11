@@ -1,0 +1,40 @@
+bbg_code,name,class
+mxwd index,MSCI ACWI Index,Equity Index
+spx index,S&P 500 INDEX,Equity Index
+spw index,S&P 500 Equal Weighted Index,Equity Index
+NDX Index,Nasdaq-100 Index,Equity Index
+AS51 INDEX,S&P/ASX 200,Equity Index
+nky index,Nikkei 225,Equity Index
+mxeu index,MSCI Europe Index,Equity Index
+NA736924 Index,MSCI World ex Australia Enhanced Value Top 250 Select Index,Equity Index
+mxef index,MSCI Emerging Markets Index,Equity Index
+m1woqu index,MSCI World Quality Net Total Return USD Index,Equity Index
+NA735934 Index,MSCI World ex Australia Small Cap Quality 150 Index,Equity Index
+rty index,Russell 2000 Index,Equity Index
+MXAPJ Index,MSCI AC Asia Pacific Excluding Japan Index,Equity Index
+mxwo000v Index,MSCI World Value Index,Equity Index
+M1WOMVOL INDEX,MSCI World Minimum Volatility Net Total Return USD Index,Equity Index
+M1WOMOM Index,MSCI World Momentum Net Total Return USD Index,Equity Index
+M4AUMT Index,MSCI Australia Momentum Local Net Total Return Index,Equity Index
+shcomp index,Shanghai Stock Exchange Composite Index,Equity Index
+UKX index,FTSE 100 Index,Equity Index
+KOSPI Index,Korea Stock Exchange KOSPI Index,Equity Index
+ENGL Index,FTSE EPRA Nareit Developed Index,Equity Index
+SPGTIND Index,S&P Global Infrastructure Index,Equity Index
+as51prop index,S&P/ASX 200 A-REIT Index,Equity Index
+XAUAUD Curncy,XAUAUD Spot Exchange Rate - Price of 1 XAU in AUD,Commodity Index
+co1 comdty,#N/A Field Not Applicable,Commodity Index
+cry index,FTSE/CoreCommodity CRB Excess Return Index,Commodity Index
+isix62iu index,Iron Ore Spot Price Index 62% Import Fine Ore CFR Qingdao USD,Commodity Index
+bacm0 index,Bloomberg AusBond Composite 0+ Yr Index,Fixed Income Index
+bacr0 index,Bloomberg AusBond Credit 0+ Yr Index,Fixed Income Index
+LUACTRUU Index,Bloomberg US Corporate Total Return Value Unhedged USD,Fixed Income Index
+lf98trah index,Bloomberg US Corporate High Yield Total Return Index Value Hedged AUD,Fixed Income Index
+luattruu Index,Bloomberg US Treasury Total Return Unhedged USD,Fixed Income Index
+BCEK1T Index,Bloomberg UK Govt All Bonds Total Return,Fixed Income Index
+bceg1t index,Bloomberg Germany Govt All Bonds Total Return,Fixed Income Index
+DXY Curncy,#N/A Field Not Applicable,Commodity Index
+AUDUSD BGNT Curncy,AUDUSD Spot Exchange Rate - Price of 1 AUD in USD,Commodity Index
+BITCOIN Index,Bloomberg Bitcoin Index,Commodity Index
+SGIXTFXA Index,SGI Cross Asset Trend Following Index,Commodity Index
+BAFRN0 Index,Bloomberg AusBond Credit FRN 0+ Yr Index,Fixed Income Index
