@@ -33,8 +33,11 @@ lf98trah index,Bloomberg US Corporate High Yield Total Return Index Value Hedged
 luattruu Index,Bloomberg US Treasury Total Return Unhedged USD,Fixed Income Index
 BCEK1T Index,Bloomberg UK Govt All Bonds Total Return,Fixed Income Index
 bceg1t index,Bloomberg Germany Govt All Bonds Total Return,Fixed Income Index
-DXY Curncy,#N/A Field Not Applicable,Commodity Index
+DXY Curncy,USD Index,Commodity Index
 AUDUSD BGNT Curncy,AUDUSD Spot Exchange Rate - Price of 1 AUD in USD,Commodity Index
 BITCOIN Index,Bloomberg Bitcoin Index,Commodity Index
 SGIXTFXA Index,SGI Cross Asset Trend Following Index,Commodity Index
 BAFRN0 Index,Bloomberg AusBond Credit FRN 0+ Yr Index,Fixed Income Index
+AS38 Index,S&P/ASX Small Ordinaries Index,Equity Index
+AS51BANX Index,S&P/ASX 200 Banks Index,Equity Index
+CBA AU Equity,Commonwealth Bank,Equity Index
